@@ -9,5 +9,5 @@ I recreated Netflix India's landing page focusing purely on design and responsiv
 - Styling layouts, buttons, and inputs purely with CSS  
 - How much can be achieved without frameworks — just patience and practice!
 
-💻 Preview: *(Add your deployed link later)*  
+💻 Preview: *([Netflix.html](https://github.com/shivam-verma-21/Netflix-Clone-HTML-CSS/blob/master/netflix.html))*  
 🧠 Built with: HTML | CSS
